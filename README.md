@@ -1,5 +1,6 @@
-# weather-web-app
-simple web application to check the current weather state
+#Weather App
+
+The Weather App is a web application that displays the current weather conditions for a given location. It allows users to search for weather information based on a specific location and provides real-time data fetched from the OpenWeatherMap API.
 
 ## API KEY
 

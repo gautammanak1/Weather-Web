@@ -9,5 +9,5 @@ This web app is using the `openweathermap` API.
 
 `js/script`
 
-`apiKey="YOUR_API_KEY_HERE"`
+`apiKey="(https://api.openweathermap.org/data/2.5/weather?q=${city}&units=metric&appid=${apiKey})https://api.openweathermap.org/data/2.5/weather?q=${city}&units=metric&appid=${apiKey}"
 
